@@ -35,6 +35,10 @@
       "repeatable": true,
       "component": "page.social-links",
       "required": true
+    },
+    "description": {
+      "type": "richtext",
+      "required": true
     }
   }
 }
